@@ -7,7 +7,7 @@ ExtraObjects is a MOD that adds new objects to Minecraft. For example, braces an
 
 ### Usage
 
-brace : You can set up a brace by right clicking to choose the starting point and right clicking again for confirm the end point.
+brace: You can set up a brace by right clicking to choose the starting point and right clicking again for confirm the end point.
 
 ### License
 

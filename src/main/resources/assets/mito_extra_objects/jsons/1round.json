@@ -1,0 +1,15 @@
+{
+  "name": "round",
+  "author": "",
+  "load_type": "brace_shape",
+  "class": {
+    "class_name": "D_Ellipse",
+    "size_ratio": 1.0,
+    "arguments": [
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  }
+}

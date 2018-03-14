@@ -1,0 +1,16 @@
+{
+  "name" : "thin",
+  "author" : "",
+  "load_type" : "brace_shape",
+  "class" : {
+    "class_name" : "D_Face",
+    "size_ratio" : 0.5,
+    "vertex_number" : 4,
+    "vertexs" : [
+      [1.0, 0.01],
+      [-1.0, 0.01],
+      [-1.0, -0.01],
+      [1.0, -0.01]
+    ]
+  }
+}

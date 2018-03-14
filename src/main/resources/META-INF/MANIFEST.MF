@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: com.mito.exobj.core.asm.BraceCore
+FMLCorePluginContainsFMLMod: com.mito.exobj.brace.common.Main
+

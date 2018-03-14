@@ -1,0 +1,9 @@
+item.ItemBrace.name=Brace
+item.ItemBender.name=Metal Bender
+item.ItemBar.name=Bar
+item.ItemRuler.name=Ruler
+item.ItemTofu.name=Tofu
+item.ItemSelectTool.name=Select Tool
+item.ItemBlockSetter.name=Brace Sack
+extra_object.Tofu.name=Tofu
+extra_object.Brace.name=Brace

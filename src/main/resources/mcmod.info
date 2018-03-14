@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "mito_extra_objects",
+  "name": "Extra Objects",
+  "description": "Add extra objects for Minecraft.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=28426&p=247995#p247995",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["mito"],
+  "credits": "mito",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
